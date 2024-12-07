@@ -1,0 +1,50 @@
+Estatísticas para o Array Ordenado			
+Insertion Sort		
+Média:	0,4140095		
+Mínimo:	0,399776		
+Máximo:	1,29615		
+Moda:	0,400532		
+Variância:	0,01229330673		
+Desvio Padrão:	0,1108751854		
+
+Merge Sort
+Média: 68,7931045
+Mínimo: 64,166745
+Máximo: 129,226215
+Moda: 75,34562
+Variância: 159,9129262
+Desvio Padrão: 12,64566828
+
+Hybrid Sort
+Média: 17,443741
+Mínimo: 16,44737
+Máximo: 35,960449
+Moda: 19,073747
+Variância: 16,65741625
+Desvio Padrão: 4,081349807
+
+
+Estatísticas para o Array Inverso			
+Insertion Sort		
+Média: 5491,453617	
+Mínimo:	5460,287216		
+Máximo:	6317,924175		
+Moda:	5475,424701		
+Variância: 25020,79966	
+Desvio Padrão: 158,1796436	
+
+Merge Sort
+Média: 66,6941795
+Mínimo: 63,833007
+Máximo: 109,161396
+Moda: 64,175129
+Variância: 84,70050769
+Desvio Padrão: 9,203287874
+
+Hybrid Sort
+Média: 19,2118495
+Mínimo: 18,908105
+Máximo: 34,082506
+Moda: 29,791312
+Variância: 7,650665146
+Desvio Padrão: 2,765983577
